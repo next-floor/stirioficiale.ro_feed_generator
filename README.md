@@ -3,6 +3,8 @@ Utilitar pentru generarea unui feed rss/atom cu informatiile oficiale despre sit
 
 Importati feedul(rss sau atom) de la adresa localhost:5000/feed/[rss|atom] in readerul preferat
 
+![alt text](https://raw.githubusercontent.com/next-floor/stirioficiale.ro_feed_generator/master/example.png)
+
 ## Instalare si rulare
 Instalati dependintele si rulati aplicatia web
 
